@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.ProjectOxford.Face</id>
+    <version>0.5.0.2</version>
+    <title>Microsoft.ProjectOxford.Face</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>https://github.com/Microsoft/ProjectOxford-ClientSDK/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/Microsoft/ProjectOxford-ClientSDK/tree/master/Face</projectUrl>
+    <iconUrl>https://www.projectoxford.ai/images/bright/face/FaceAPI.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Microsoft Project Oxford Face API Client Library</description>
+    <summary>This client library allows the use of Microsoft's state-of-the-art cloud-based face algorithms to detect and recognize human faces in images. See https://github.com/Microsoft/ProjectOxford-ClientSDK/tree/master/Face for more information.</summary>
+    <releaseNotes>Beta Release of Project Oxford SDK Client Library</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>ProjectOxford Oxford Face</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="6.0.8" />
+    </dependencies>
+  </metadata>
+</package>
